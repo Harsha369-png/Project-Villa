@@ -98,6 +98,9 @@ h2 {
   font-size: 14px;
   text-transform: uppercase;
 }
+.col-md-5{
+  background-image: url(./Assets/featured-icon.png);
+}
 .info-title {
   font-size: 30px;
   font-weight: bold;
@@ -115,6 +118,9 @@ h2 {
   display: flex;
   flex-wrap: wrap;
 
+}
+.page-heading header-text .breadcrumb{
+  background-image: url(./Assets/page-heading-bg.jpg);
 }
 .ratio img {
   width: 100%;
@@ -513,24 +519,4 @@ h2 {
   .property-info-box {
     padding: 15px;
   }
-
-  .photo5 {
-    position: relative;
-    width:280px;
-    height: 200px;
-    left: -53px;
-  }
-  .me-3{
-    display: none;
-  }
-  .me-4{
-    display: none;
-  }
-  .stat-box{
-    display: none;
-  }
-  .featuredd{
-    position: relative;
-    left: -100px;
-  }
-}
+;
