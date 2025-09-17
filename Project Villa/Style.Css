@@ -52,8 +52,8 @@ h2 {
 }
 .collapse .navbar-nav .nav-item :hover{
   color: orangered;
-  transition: all 0.3s ease-in-out;
 }
+
 .collapse .navbar-nav .nav-home .active{
   color: orangered;
 }
@@ -515,8 +515,7 @@ h2 {
   .map {
     height: 250px;
   }
-
   .property-info-box {
     padding: 15px;
   }
-;
+}
